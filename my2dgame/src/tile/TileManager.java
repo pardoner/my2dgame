@@ -5,6 +5,8 @@ import java.io.*;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.io.BufferedReader;
+import java.io.Reader;
 
 import javax.imageio.ImageIO;
 
@@ -62,7 +64,8 @@ public class TileManager {
 	public void loadMap(String s) {
 		try {
 			InputStream is = getClass().getResourceAsStream("/maps/world01.txt");
-			BufferedReader br = new BufferedReader(new InputStreamReader(is));
+			InputStreamReader isr = new InputStreamReader(is);
+			BufferedReader br = new BufferedReader(isr);
 
 			int col = 0;
 			int row =0;
