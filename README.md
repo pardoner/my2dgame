@@ -18,7 +18,9 @@ Simple Graphics: Visuals created using sprites from Spriter's Resource.
 
 **Setup and Installation**
 
-To get started with the 2D Treasure Hunt Game, follow these steps:
+To play the game, you can download the JAR file from this Google Drive link: https://drive.google.com/file/d/15wJLnIMt-5F4Gt23sXMOV0m4XVNJCdJN/view?usp=sharing. 
+
+Alternatively, to get started with the 2D Treasure Hunt Game, follow these steps:
 
 Clone the Repository:
 
