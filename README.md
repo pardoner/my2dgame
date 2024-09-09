@@ -85,5 +85,5 @@ Please make sure your code follows the project's coding standards and includes r
 
 Dylan Wicker
 
-:octocat: GitHub
-🔗 LinkedIn
+:octocat: [GitHub](https://github.com/pardoner)
+🔗 [LinkedIn](https://www.linkedin.com/in/dylanwicker/)
