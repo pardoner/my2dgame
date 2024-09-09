@@ -66,19 +66,33 @@ Time Challenge: Try to find the treasure as quickly as possible to achieve a hig
 If you want to contribute to this project, follow these steps:
 
 Fork the Repository
+
 Create a Branch:
+
 sh
+
 Copy code
+
 git checkout -b feature/your-feature
+
 Commit Your Changes:
+
 sh
+
 Copy code
+
 git commit -am 'Add some feature'
+
 Push to the Branch:
+
 sh
+
 Copy code
+
 git push origin feature/your-feature
+
 Open a Pull Request
+
 Please make sure your code follows the project's coding standards and includes relevant tests.
 
 **Contributors**
