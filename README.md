@@ -3,6 +3,11 @@
 **2D Treasure Hunt Game**
 
 Welcome to the 2D Treasure Hunt Game! This is a simple 2D video game developed using Java in the Eclipse IDE. In this game, your objective is to find the hidden treasure chest as quickly as possible. Use the arrow keys to navigate the game world and seek the treasure.
+<img width="764" alt="Screenshot 2024-10-16 at 12 02 54 PM" src="https://github.com/user-attachments/assets/3b646104-9efe-459d-9cf5-11e5635063a5">
+<img width="764" alt="Screenshot 2024-10-16 at 12 03 07 PM" src="https://github.com/user-attachments/assets/3932febe-17e0-4788-8d18-68c0e2074978">
+<img width="763" alt="Screenshot 2024-10-16 at 12 03 51 PM" src="https://github.com/user-attachments/assets/1cb12eff-a3b8-4820-93ea-e1e48a04936b">
+<img width="758" alt="Screenshot 2024-10-16 at 12 04 12 PM" src="https://github.com/user-attachments/assets/883b7010-2fb0-43d2-8119-3264e16dca94">
+<img width="765" alt="Screenshot 2024-10-16 at 12 04 19 PM" src="https://github.com/user-attachments/assets/51c557ef-78f9-4b72-93c8-f3bc7043176b">
 
 **Project Overview**
 
